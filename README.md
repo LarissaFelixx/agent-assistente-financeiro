@@ -30,7 +30,9 @@ Clone o repositório:
 git clone https://github.com/seu-usuario/agent-assistente-financeiro.git
 cd agent-assistente-financeiro
 
-## 🔑 Configuração da API
+---
+
+# 🔑 Configuração da API
 
 export OPENAI_API_KEY="sua_chave_aqui"   # Linux/Mac
 setx OPENAI_API_KEY "sua_chave_aqui"     # Windows
@@ -39,8 +41,12 @@ setx OPENAI_API_KEY "sua_chave_aqui"     # Windows
 
 python main.py
 
+---
+
 ## 📝 Exemplo de uso
 
 Minha renda é de R$10000 por mês, o total de minhas despesas é de R$ 8500 mais R$1000 de aluguel.
 Quais dicas de investimento você me dá?
+
+---
 
